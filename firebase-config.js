@@ -6,9 +6,9 @@ import { getDatabase } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-
 const firebaseConfig = {
   apiKey: "AIzaSyAmn6QYlRsec2c0v1WSJeS_ryZlCVQHhHE",
   authDomain: "craked-panel.firebaseapp.com",
-  databaseURL: "https://craked-panel-default-rtdb.firebaseio.com",
+  databaseURL: "https://riskacantikkkkkkkkkkkkkkkkkkkk-default-rtdb.firebaseio.com",
   projectId: "craked-panel",
-  storageBucket: "craked-panel.firebasestorage.app",
+  storageBucket: "riskacantikkkkkkkkkkkkkkkkkkkk.firebasestorage.app",
   messagingSenderId: "670353278206",
   appId: "1:670353278206:web:93c9ced7b309c2417d51af",
   measurementId: "G-WQTCB8ZWK4"
