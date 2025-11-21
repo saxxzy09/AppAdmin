@@ -5,7 +5,7 @@ import { getDatabase } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-
 
 const firebaseConfig = {
   apiKey: "AIzaSyDm0kPg3iITQrSHtF9U6hTjliZ1WaM4qVQ",
-  authDomain: "riskacantikkkkkkkkkkkkkkkkkkkk-default-rtdb.firebaseio.com",
+  authDomain: "private-server-by-nikzz-default-rtdb.firebaseio.com",
   databaseURL: "https://private-server-by-nikzz-default-rtdb.firebaseio.com",
   projectId: "private-server-by-nikzz",
   storageBucket: "private-server-by-nikzz.firebasestorage.app",
