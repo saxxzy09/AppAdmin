@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "riskacantikkkkkkkkkkkkkkkkkkkk",
   storageBucket: "riskacantikkkkkkkkkkkkkkkkkkkk.firebasestorage.app",
   messagingSenderId: "670353278206",
-  appId: "1:670353278206:web:93c9ced7b309c2417d51af",
+  appId: "1:442286923481:android:e9be224251084d199468c8",
   measurementId: "G-WQTCB8ZWK4"
 };
 
