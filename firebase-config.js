@@ -4,9 +4,9 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.9.1/firebase
 import { getDatabase } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-database.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAmn6QYlRsec2c0v1WSJeS_ryZlCVQHhHE",
+  apiKey: "AIzaSyDm0kPg3iITQrSHtF9U6hTjliZ1WaM4qVQ",
   authDomain: "riskacantikkkkkkkkkkkkkkkkkkkk-default-rtdb.firebaseio.com",
-  databaseURL: "https://riskacantikkkkkkkkkkkkkkkkkkkk-default-rtdb.firebaseio.com",
+  databaseURL: "https://private-server-by-nikzz-default-rtdb.firebaseio.com",
   projectId: "riskacantikkkkkkkkkkkkkkkkkkkk",
   storageBucket: "riskacantikkkkkkkkkkkkkkkkkkkk.firebasestorage.app",
   messagingSenderId: "670353278206",
