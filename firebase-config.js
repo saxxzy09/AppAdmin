@@ -7,7 +7,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyAmn6QYlRsec2c0v1WSJeS_ryZlCVQHhHE",
   authDomain: "riskacantikkkkkkkkkkkkkkkkkkkk-default-rtdb.firebaseio.com",
   databaseURL: "https://riskacantikkkkkkkkkkkkkkkkkkkk-default-rtdb.firebaseio.com",
-  projectId: "craked-panel",
+  projectId: "riskacantikkkkkkkkkkkkkkkkkkkk",
   storageBucket: "riskacantikkkkkkkkkkkkkkkkkkkk.firebasestorage.app",
   messagingSenderId: "670353278206",
   appId: "1:670353278206:web:93c9ced7b309c2417d51af",
