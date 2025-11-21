@@ -7,10 +7,10 @@ const firebaseConfig = {
   apiKey: "AIzaSyDm0kPg3iITQrSHtF9U6hTjliZ1WaM4qVQ",
   authDomain: "riskacantikkkkkkkkkkkkkkkkkkkk-default-rtdb.firebaseio.com",
   databaseURL: "https://private-server-by-nikzz-default-rtdb.firebaseio.com",
-  projectId: "riskacantikkkkkkkkkkkkkkkkkkkk",
-  storageBucket: "riskacantikkkkkkkkkkkkkkkkkkkk.firebasestorage.app",
+  projectId: "private-server-by-nikzz",
+  storageBucket: "private-server-by-nikzz.firebasestorage.app",
   messagingSenderId: "670353278206",
-  appId: "1:442286923481:android:e9be224251084d199468c8",
+  appId: "1:717691899362:android:37a6375df157c3a2f8fdbb",
   measurementId: "G-WQTCB8ZWK4"
 };
 
